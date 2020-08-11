@@ -10,9 +10,9 @@ This project is currently in development. A basic home page template has been cr
 
 ## Project Screen Shot(s)
 
-![Screenshot of project](https://ibb.co/8j2VdnB)
+![Screenshot of project](https://i.ibb.co/64b51cZ/scn1.png)
 
-![Screenshot of project](https://ibb.co/VjxxF82)
+![Screenshot of project](https://i.ibb.co/w077n1M/scn2.png)
 
 ## Installation and Setup Instructions
 
