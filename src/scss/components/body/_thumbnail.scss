@@ -1,0 +1,15 @@
+.thumbnail {
+  display: flex;
+  justify-content: center;
+
+  .card {
+    // background-image: url(https://source.unsplash.com/random);
+    background-size: cover;
+    height: 250px;
+    width: 20rem;
+
+    a {
+      color: blueviolet;
+    }
+  }
+}

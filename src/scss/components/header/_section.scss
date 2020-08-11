@@ -1,0 +1,32 @@
+
+#section{
+    height: 15.5rem;
+    background-color: $primary-color;
+    color: $white;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-family: $primary-font;
+
+    div{
+        height: 100%;
+        max-width: 724.02135px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        padding: 30px 10px 50px 10px;
+ 
+    }
+    p{
+        font-size: calc(1.3rem + (((100vw - 43.75rem) / (87.5 - 43.75))) * 0.4);
+    }
+    h1{
+        font-size: calc(2.4rem + (((100vw - 43.75rem) / (87.5 - 43.75))) * 0.7);
+        
+    }
+    
+}
